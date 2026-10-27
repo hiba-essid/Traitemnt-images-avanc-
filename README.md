@@ -74,3 +74,4 @@ de travail et peuvent nécessiter une implémentation complémentaire.
   travail de l'application de débruitage du TP2.
 - Les fichiers `.m` sont des scripts et fonctions MATLAB ; ils ne sont pas
   destinés à être exécutés directement avec Octave sans adaptation.
+# Traitemnt-images-avanc-
